@@ -1,1 +1,3 @@
 # NNinvoicegenerator-tk
+As an intern at NovaNectar Services Pvt Ltd, my primary responsibility was to develop a Python-based invoice generator. The objective of this task was to create an efficient and user-friendly tool capable of generating detailed invoices for clients, incorporating essential features such as itemized billing, tax calculations, and automated formatting for consistency and professionalism. The project required a solid understanding of Python programming, familiarity with libraries for PDF generation, and attention to detail to ensure accuracy and reliability in financial documentation. 
+This essential tool aims to streamline the invoicing process, enhancing operational efficiency and client satisfaction for NovaNectar Services Pvt Ltd.  
